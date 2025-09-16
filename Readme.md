@@ -1,5 +1,6 @@
 Simple project for study makefiles
 =====================
+Изменен файл readme
 
 Примеры для обучения использованию make-файлов
 
